@@ -1,0 +1,6 @@
+*.o
+.depends
+CMakeLists.txt
+cmake-build-debug/
+.idea/
+min_stack
